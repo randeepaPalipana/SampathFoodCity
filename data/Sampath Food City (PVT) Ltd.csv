@@ -1,0 +1,51 @@
+Transaction_ID,Branch,Item,Price (LKR),Quantity,Year,Month,Date
+TXN001,Colombo,Butter 250g,450,1,2023,1,13
+TXN002,Badulla,Cheese 200g,700,3,2023,1,6
+TXN003,Gampaha,Chicken 1kg,890,2,2023,1,22
+TXN004,Badulla,Butter 250g,450,5,2023,1,14
+TXN005,Kandy,Toothpaste,250,4,2023,1,17
+TXN006,Colombo,Milk 1L,280,1,2023,1,22
+TXN007,Gampaha,Chicken 1kg,890,5,2023,1,14
+TXN008,Kandy,Soap Bar,100,2,2023,1,7
+TXN009,Colombo,Tea Pack 400g,600,2,2023,1,18
+TXN010,Gampaha,Toothpaste,250,3,2023,1,4
+TXN011,Gampaha,Yogurt Cup,120,2,2023,1,5
+TXN012,Colombo,Eggs (10 pack),520,3,2023,1,21
+TXN013,Gampaha,Chicken 1kg,890,3,2023,1,22
+TXN014,Kandy,Bread Loaf,150,4,2023,1,19
+TXN015,Colombo,Eggs (10 pack),520,3,2023,1,16
+TXN016,Badulla,Yogurt Cup,120,1,2023,1,24
+TXN017,Kandy,Soap Bar,100,1,2023,1,13
+TXN018,Kandy,Bread Loaf,150,5,2023,1,31
+TXN019,Colombo,Margarine,350,5,2023,1,5
+TXN020,Colombo,Toothpaste,250,2,2023,1,5
+TXN021,Gampaha,Milk 1L,280,2,2023,1,29
+TXN022,Kandy,Bread Loaf,150,2,2023,1,21
+TXN023,Gampaha,Tea Pack 400g,600,3,2023,1,21
+TXN024,Kandy,Butter 250g,450,3,2023,1,25
+TXN025,Kandy,Eggs (10 pack),520,3,2023,1,18
+TXN026,Badulla,Butter 250g,450,3,2023,1,6
+TXN027,Kandy,Toothpaste,250,2,2023,1,1
+TXN028,Gampaha,Cheese 200g,700,2,2023,1,25
+TXN029,Gampaha,Sugar 1kg,300,4,2023,1,19
+TXN030,Badulla,Chocolate Bar,200,5,2023,1,23
+TXN031,Gampaha,Butter 250g,450,3,2023,1,29
+TXN032,Colombo,Chicken 1kg,890,1,2023,1,11
+TXN033,Badulla,Tea Pack 400g,600,3,2023,1,3
+TXN034,Gampaha,Chicken 1kg,890,5,2023,1,11
+TXN035,Gampaha,Chicken 1kg,890,4,2023,1,22
+TXN036,Colombo,Chocolate Bar,200,4,2023,1,15
+TXN037,Badulla,Noodles Packet,120,2,2023,1,7
+TXN038,Colombo,Cheese 200g,700,5,2023,1,3
+TXN039,Badulla,Noodles Packet,120,5,2023,1,8
+TXN040,Badulla,Chocolate Bar,200,5,2023,1,24
+TXN041,Kandy,Eggs (10 pack),520,2,2023,1,12
+TXN042,Gampaha,Soap Bar,100,4,2023,1,16
+TXN043,Gampaha,Yogurt Cup,120,1,2023,1,26
+TXN044,Kandy,Basmati Rice 5kg,1250,2,2023,1,5
+TXN045,Colombo,Toothpaste,250,1,2023,1,17
+TXN046,Kandy,Tea Pack 400g,600,5,2023,1,28
+TXN047,Gampaha,Soap Bar,100,3,2023,1,11
+TXN048,Gampaha,Margarine,350,1,2023,1,28
+TXN049,Kandy,Butter 250g,450,5,2023,1,17
+TXN050,Kandy,Yogurt Cup,120,3,2023,2,27
